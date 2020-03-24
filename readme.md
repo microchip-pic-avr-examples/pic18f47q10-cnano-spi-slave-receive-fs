@@ -2,7 +2,7 @@
 <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><p><a href="https://www.microchip.com" rel="nofollow"><img src="Images/MicrochipLogo.png" alt="MCHP" style="max-width:100%;"></a></p>
 
 
-# PIC18F47Q10 Exchanging Data as a Slave SPI Device Using Interrupts
+# PIC18F47Q10 Receiving Data as a Slave SPI Device
 
 ## Objective:
 The PIC18F47Q10 features two MSSP modules, which can be configured in SPI mode.
