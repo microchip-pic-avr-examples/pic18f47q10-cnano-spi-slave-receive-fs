@@ -24,12 +24,12 @@ The PIC18F47Q10 Curiosity Nano Development Board is used as the test platform.
 
 The following configurations must be made for this project:
 
-|Pin           | Configuration      |
-| :----------: | :----------------: |
-|RA5 (SS)      | Digital Input      |
-|RC3 (SCK)     | Digital Input      |
-|RC4 (SDI)     | Digital Input      |
-|RC5 (SDO)     | Digital Output     |
+|Pin            | Configuration      |
+| :-----------: | :----------------: |
+|RA5 (SS)       | Digital Input      |
+|RC3 (SCK)      | Digital Input      |
+|RC4 (SDI)      | Digital Input      |
+|RC5 (SDO)      | Digital Output     |
 
 ## Operation
 Run the code, connect an oscilloscope or logic analyzer to the pins. In order to see the results, a master SPI device must be connected with the slave device. The data will be received on slave's SDI pin and will be stored in `receiveData`.
