@@ -4,7 +4,7 @@
 # PIC18F47Q10 Receiving Data as a Slave SPI Device
 
 ## Objective
-This repository contains an example of Foundatoins Services generated source code for SPI as described in [*TB3265 - Getting Started with SPI using MSSP on PIC18*](http://ww1.microchip.com/downloads/en/DeviceDoc/Getting-Started-With-SPI-Using-MSSP-on-PIC18-DS90003265A.pdf) document from Microchip.
+This repository contains an example of Foundation Services generated source code for SPI as described in [*TB3265 - Getting Started with SPI using MSSP on PIC18*](http://ww1.microchip.com/downloads/en/DeviceDoc/Getting-Started-With-SPI-Using-MSSP-on-PIC18-DS90003265A.pdf) document from Microchip.
 <br>In this demo, the SPI will be configured as slave and it will be used to receive data from a master device.
 
 ## Related Documentation
