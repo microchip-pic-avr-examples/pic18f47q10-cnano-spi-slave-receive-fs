@@ -7,7 +7,7 @@
         "version": "1.0.3",
         "displayName": "Receiving Data as an SPI Device",
         "projectName": "pic18f47q10-cnano-spi-slave-receive-mc",
-        "shortDescription": "In this demo, the SPI is configured as slave and it is used to receive data from a master device.",
+        "shortDescription": "In this demo, the SPI is configured as slave and it is used to receive data from a master device. The drivers for peripherals were generated using MCC (Foundation Services library).",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=5.30.0"
@@ -47,7 +47,6 @@
             "MSSP"
         ],
         "keywords": [
-            "SPI",
             "Data Transfer",
             "Serial Communication",
             "Receive",
