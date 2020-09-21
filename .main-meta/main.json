@@ -3,10 +3,10 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-spi-slave-receive-mc",
-        "version": "1.0.3",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-spi-slave-receive-mcc",
+        "version": "1.0.4",
         "displayName": "Receiving Data as an SPI Device",
-        "projectName": "pic18f47q10-cnano-spi-slave-receive-mc",
+        "projectName": "pic18f47q10-cnano-spi-slave-receive-mcc",
         "shortDescription": "In this demo, the SPI is configured as slave and it is used to receive data from a master device. The drivers for peripherals were generated using MCC (Foundation Services library).",
         "ide": {
             "name": "MPLAB X",
